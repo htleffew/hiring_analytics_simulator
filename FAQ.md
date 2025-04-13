@@ -1,4 +1,5 @@
-#FAQ
+# FAQ
+---
 
 ## Section 1: Technical Questions
 
