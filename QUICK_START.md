@@ -20,7 +20,7 @@ Welcome! This project simulates a realistic hiring and retention pipeline using 
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/netflix-talent-analytics-demo.git
+   git clone https://github.com/htleffew/hiring_analytics_simulator.git
    ```
 
 2. **Install dependencies**  
