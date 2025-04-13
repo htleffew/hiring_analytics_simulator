@@ -1,8 +1,6 @@
----
-title: Netflix Talent Analytics Demo
----
 
-# Netflix Talent Analytics – Fairness-Aware Modeling
+
+# Talent Analytics – Fairness-Aware Modeling
 
 Welcome! This project simulates a realistic hiring and retention pipeline using **synthetic candidate data**. It's designed to help you explore bias in machine learning models – without relying on sensitive real-world data.
 
